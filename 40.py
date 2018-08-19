@@ -1,4 +1,4 @@
-# Sum up d(1), d(10), ..., d(100,000) for d(n) the nth digit of 0.12345678910111213...
+# Multiply up d(1), d(10), ..., d(100,000) for d(n) the nth digit of 0.12345678910111213...
 # ====================================================================================
 
 # Very elegant:
@@ -13,3 +13,5 @@ def compute():
 
 if __name__ == "__main__":
 	print(compute())
+	for i in range(7):
+		print(i) # 0, 1, ..., 6
