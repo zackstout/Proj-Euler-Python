@@ -21,3 +21,7 @@ def compute():
 
 if __name__ == "__main__":
 	print(compute())
+
+# lista = [1, 2]
+alist = [1, 2, 3]
+print(alist[-1])

@@ -1,6 +1,7 @@
 # How many numbers below 5 million can be expressed as sum of prime square, cube and fourth?
 # ====================================================================================
 
+# Don't really get this one:
 
 def compute():
 	LIMIT = 50000000
